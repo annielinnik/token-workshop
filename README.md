@@ -8,6 +8,12 @@ Copy .env file
 cp .env.example .env
 ```
 
+Install dependencies
+
+```bash
+npm i
+```
+
 Generate Prisma client and create database
 
 ```bash
